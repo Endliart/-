@@ -1,0 +1,12 @@
+F:\OneDrive\Рабочий стол\FinCalc-master\FinCalc\bin\Debug\FinCalc.exe.config
+F:\OneDrive\Рабочий стол\FinCalc-master\FinCalc\bin\Debug\FinCalc.exe
+F:\OneDrive\Рабочий стол\FinCalc-master\FinCalc\bin\Debug\FinCalc.pdb
+F:\OneDrive\Рабочий стол\FinCalc-master\FinCalc\obj\Debug\FinCalc.csproj.AssemblyReference.cache
+F:\OneDrive\Рабочий стол\FinCalc-master\FinCalc\obj\Debug\FinCalc.csproj.SuggestedBindingRedirects.cache
+F:\OneDrive\Рабочий стол\FinCalc-master\FinCalc\obj\Debug\FinCalc.Form_calc.resources
+F:\OneDrive\Рабочий стол\FinCalc-master\FinCalc\obj\Debug\FinCalc.Form_schedule.resources
+F:\OneDrive\Рабочий стол\FinCalc-master\FinCalc\obj\Debug\FinCalc.Properties.Resources.resources
+F:\OneDrive\Рабочий стол\FinCalc-master\FinCalc\obj\Debug\FinCalc.csproj.GenerateResource.cache
+F:\OneDrive\Рабочий стол\FinCalc-master\FinCalc\obj\Debug\FinCalc.csproj.CoreCompileInputs.cache
+F:\OneDrive\Рабочий стол\FinCalc-master\FinCalc\obj\Debug\FinCalc.exe
+F:\OneDrive\Рабочий стол\FinCalc-master\FinCalc\obj\Debug\FinCalc.pdb
